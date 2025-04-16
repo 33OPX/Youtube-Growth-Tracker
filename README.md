@@ -20,8 +20,8 @@ A Python script that uses the YouTube Data API to find and track new YouTube cha
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/youtube-channel-finder.git
-cd youtube-channel-finder
+git clone https://github.com/yourusername/YouTube-Growth-Tracker.git
+cd YouTube Growth Tracker
 ```
 
 2. Install required packages:
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Run the script:
 ```bash
-python youtube_channel_finder.py
+python "YouTube Growth Tracker.py"
 ```
 
 The script will:
